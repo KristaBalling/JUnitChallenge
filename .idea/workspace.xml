@@ -22,7 +22,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1726" />
+          <entry key="JAVA" value="1875" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -46,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/theironyard/Utilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+            <state>
+              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
               <folding>
                 <element signature="e#1235#1236#0" expanded="true" />
                 <element signature="e#1277#1278#0" expanded="true" />
@@ -59,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/theironyard/UtilitiesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="275">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,7 +132,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow&#10;TER&#9;ACTION&#9;ActivateTerminalToolWindow" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550590152701" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550591117698" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -224,12 +224,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UtilitiesTest - 2019.02.14 at 16h 34m 50s.xml">
-      <configuration name="UtilitiesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UtilitiesTest - 2019.02.19 at 09h 03m 34s.xml">
-      <configuration name="UtilitiesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UtilitiesTest - 2019.02.19 at 09h 04m 57s.xml">
       <configuration name="UtilitiesTest" configurationId="JUnit" />
     </history-entry>
@@ -251,6 +245,15 @@
     <history-entry file="UtilitiesTest_removePairs - 2019.02.19 at 10h 13m 41s.xml">
       <configuration name="UtilitiesTest.removePairs" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UtilitiesTest_removePairs - 2019.02.19 at 10h 29m 15s.xml">
+      <configuration name="UtilitiesTest.removePairs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilitiesTest_removePairs - 2019.02.19 at 10h 39m 27s.xml">
+      <configuration name="UtilitiesTest.removePairs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilitiesTest_removePairs - 2019.02.19 at 10h 43m 16s.xml">
+      <configuration name="UtilitiesTest.removePairs" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -266,10 +269,10 @@
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" weight="0.329718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -297,8 +300,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/theironyard/Utilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
           <folding>
             <element signature="e#1235#1236#0" expanded="true" />
             <element signature="e#1277#1278#0" expanded="true" />
@@ -308,8 +311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/theironyard/UtilitiesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="275">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
