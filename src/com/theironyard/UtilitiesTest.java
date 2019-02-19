@@ -11,8 +11,9 @@ public class UtilitiesTest {
 
     @org.junit.Test
     public void removePairs() throws Exception{
-        fail("This test has not been implemented");
-
+        Utilities util = new Utilities();
+        assertEquals("ABCDEF", util.removePairs("AABCDDEFF"));
+        assertEquals("ABCABDEF", util.removePairs("ABCCABDEEF"));
     }
 
     @org.junit.Test
